@@ -85,8 +85,7 @@ GEM
     redis-client (0.22.2)
       connection_pool
     regexp_parser (2.9.2)
-    rexml (3.3.3)
-      strscan
+    rexml (3.3.9)
     rubocop (1.64.1)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
@@ -130,7 +129,6 @@ GEM
       thor (>= 0.19.2)
     stackprof (0.2.26)
     storable (0.10.0)
-    strscan (3.1.0)
     sysinfo (0.10.0)
       drydock (< 1.0)
       storable (~> 0.10)
